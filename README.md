@@ -2,7 +2,7 @@
   <br />
   <img src="https://raw.githubusercontent.com/cabinet-cli/provider-4chan/master/res/title.png" />
   <br />
-  Cabinet
+  provider-4chan
   <sup>
     <br />
     <br />
