@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "importHelpers": true,
+        "module": "commonjs",
+        "outDir": "lib",
+        "rootDir": "src",
+        "baseUrl": ".",
+        "strict": true,
+        "target": "es5",
+        "esModuleInterop": true
+    },
+    "include": ["src/**/*"]
+}
