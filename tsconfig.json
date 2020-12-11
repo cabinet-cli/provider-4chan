@@ -7,8 +7,10 @@
         "rootDir": "src",
         "baseUrl": ".",
         "strict": true,
-        "target": "es5",
-        "esModuleInterop": true
+        "esModuleInterop": true,
+        "paths": {
+            "@root/*": ["./src/*"]
+        }
     },
     "include": ["src/**/*"]
 }

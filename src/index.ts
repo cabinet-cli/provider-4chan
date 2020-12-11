@@ -1,1 +1,1 @@
-export = class FourChanProvider {};
+export class FourChanProvider {}
