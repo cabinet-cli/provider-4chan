@@ -1,11 +1,14 @@
 {
-    "name": "provider-4chan",
+    "name": "@cabinet-cli/provider-4chan",
     "version": "0.0.1",
     "description": "4chan provider for cabinet CLI application",
     "main": "lib/index.js",
     "repository": "https://github.com/cabinet-cli/provider-4chan",
     "author": "Sophia <beyondthesophia@gmail.com>",
     "license": "MIT",
+    "dependencies": {
+        "@cabinet-cli/core": "latest"
+    },
     "devDependencies": {
         "@babel/core": "^7.12.10",
         "@babel/preset-env": "^7.12.10",
